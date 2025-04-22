@@ -3,6 +3,4 @@ torch
 diffusers
 tensorflow==1.15.0
 magenta
-diffusers
 transformers
-torch
