@@ -1,6 +1,7 @@
 streamlit
 torch
 diffusers
-tensorflow==1.15.0
-magenta
 transformers
+magenta
+tensorflow==1.15.0
+gdown
